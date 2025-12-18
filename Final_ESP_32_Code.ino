@@ -8,7 +8,7 @@
 #include <HardwareSerial.h>
 #include <ArduinoJson.h>  
 
-
+//Variables
 const int trigPin = 5;
 const int echoPin = 18;
 int IR = 25;
